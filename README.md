@@ -1,2 +1,3 @@
 ### C++
-##### C++ practice based on awesome tutorials from [John Purcell](http://courses.caveofprogramming.com/) on [YouTube](https://www.youtube.com/watch?v=1MKhigIml3E&list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt)
+##### C++ practice 
+#### Repository containing all the CPP code for DSA and C++ programing language to learn and practice from the Abdul Bari Course. Visit the google drive link for the whole repository.
